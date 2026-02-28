@@ -1,10 +1,10 @@
-#  Lista de Exercícios – Java
+#  ⋆˚࿔ Lista de Exercícios – Java 𝜗𝜚˚⋆ 
 
 Exercícios focados em **lógica de programação**, usando estruturas condicionais e de repetição.
 
 ---
 
-## 🔹 Condicionais
+##  ⋆.˚🪻༘⋆ Condicionais
 
 1. Converter Celsius para Fahrenheit.
 2. Calcular salário líquido (INSS + IR).
@@ -18,7 +18,7 @@ Exercícios focados em **lógica de programação**, usando estruturas condicion
 
 ---
 
-## 🔹 Repetição
+##  𓍢ִ໋🌷͙֒ Repetição
 
 10. Somar notas da turma.
 11. Exibir tabuada.
@@ -28,5 +28,8 @@ Exercícios focados em **lógica de programação**, usando estruturas condicion
 15. Mostrar termo da sequência de Fibonacci.
 16. Calcular maior e menor média da turma (sem array).
 
+---
+
+°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 Isabela Rangel 
 1º BIM Programação Orientada a Objetos
